@@ -10,7 +10,7 @@
     "AXS_locked": 0,
     "BNB": 0,
     "BNB_locked": 0,
-    "BTC": 1.0018316684803314246,
+    "BTC": 1.0,
     "BTC_locked": 0,
     "BUSD": 0,
     "BUSD_locked": 0,
@@ -42,7 +42,7 @@
     "USDC_locked": 0,
     "USDT": 0,
     "USDT_locked": 0,
-    "BRL": 1819.3941508088228,
+    "BRL": 90000.0,
     "BRL_locked": 0,
     "timestamp": "2022-11-30 17:27:08"
 }
